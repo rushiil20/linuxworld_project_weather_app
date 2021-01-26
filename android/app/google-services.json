@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307108178255",
+    "project_id": "lwprojectapp",
+    "storage_bucket": "lwprojectapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307108178255:android:7c74f4330d4af657387d3a",
+        "android_client_info": {
+          "package_name": "com.vimal.lw_project_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307108178255-b030jqes0lc9j104tsgdab37t7460fo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO3cBJzppuo8HcWPGyDFsBRphwPz4QAG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307108178255-b030jqes0lc9j104tsgdab37t7460fo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
